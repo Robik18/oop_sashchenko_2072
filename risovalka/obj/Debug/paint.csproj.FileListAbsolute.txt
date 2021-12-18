@@ -1,0 +1,10 @@
+C:\Users\Админ\Documents\GitHub\OOP_2072_Roberta\risovalka\bin\Debug\task_paint.exe.config
+C:\Users\Админ\Documents\GitHub\OOP_2072_Roberta\risovalka\bin\Debug\task_paint.exe
+C:\Users\Админ\Documents\GitHub\OOP_2072_Roberta\risovalka\bin\Debug\task_paint.pdb
+C:\Users\Админ\Documents\GitHub\OOP_2072_Roberta\risovalka\obj\Debug\paint.csprojAssemblyReference.cache
+C:\Users\Админ\Documents\GitHub\OOP_2072_Roberta\risovalka\obj\Debug\task_paint.Form1.resources
+C:\Users\Админ\Documents\GitHub\OOP_2072_Roberta\risovalka\obj\Debug\task_paint.Properties.Resources.resources
+C:\Users\Админ\Documents\GitHub\OOP_2072_Roberta\risovalka\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\Админ\Documents\GitHub\OOP_2072_Roberta\risovalka\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\GitHub\OOP_2072_Roberta\risovalka\obj\Debug\task_paint.exe
+C:\Users\Админ\Documents\GitHub\OOP_2072_Roberta\risovalka\obj\Debug\task_paint.pdb
